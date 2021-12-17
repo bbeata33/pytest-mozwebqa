@@ -1,4 +1,4 @@
-pytest_mozwebqa
+b pytest_mozwebqa
 ===============
 
 pytest_mozwebqa is a plugin for [py.test](http://pytest.org/) that provides additional features needed for Mozilla's WebQA projects.
